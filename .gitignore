@@ -1,0 +1,12 @@
+build/
+.local/
+__pycache__/
+*.pyc
+.idea/
+*.iml
+*.jks
+*.keystore
+*.idsig
+*.zip
+*.apk
+!Reencuadrador-v5.apk
