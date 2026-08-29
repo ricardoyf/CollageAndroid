@@ -15,7 +15,7 @@ TOOLS_DIR="$SDK_DIR/build-tools/$BUILD_TOOLS_VERSION"
 ANDROID_JAR="$SDK_DIR/platforms/$ANDROID_PLATFORM/android.jar"
 BUILD_DIR="$PROJECT_DIR/build"
 KEYSTORE="${KEYSTORE_PATH:-$PROJECT_DIR/.local/debug.keystore}"
-APK="$BUILD_DIR/Reencuadrador-v5.apk"
+APK="$BUILD_DIR/collage.apk"
 
 for required in aapt d8 zipalign apksigner; do
   if [[ ! -x "$TOOLS_DIR/$required" ]]; then
