@@ -1,3 +1,9 @@
+<!-- app-release:start -->
+[**Descargar APK v1.5**](https://github.com/ricardoyf/CollageAndroid/releases/download/v1.5/Collage-v1.5.apk) · [SHA-256](https://github.com/ricardoyf/CollageAndroid/releases/download/v1.5/Collage-v1.5.apk.sha256)
+
+`7168b9a5803c634a76f526d1b73620e1bbaebdc5187f6f771441c8e07b508beb`
+<!-- app-release:end -->
+
 # Collage Android v1.5
 
 Aplicación Android ligera para recortar fotografías en móvil con proporciones de impresión.
